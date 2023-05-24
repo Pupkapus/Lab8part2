@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CarIntent</string>
+    <string name="new_car">New Car</string>
+    <string name="car_list">Car list</string>
+    <string name="car_mark">Mark</string>
+    <string name="car_company">Company</string>
+    <string name="car_price">Price</string>
+</resources>
